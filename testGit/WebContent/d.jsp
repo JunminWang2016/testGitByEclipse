@@ -8,7 +8,6 @@
 </head>
 <body>
 	something happend
-	Good luck
-	
+	Good luck!!!
 </body>
 </html>
